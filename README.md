@@ -4,7 +4,7 @@
 
 ##### A LoRa-Integrated, Infrared Camera-Equipped Drone System for Dynamic Temperature Monitoring on the River Elbe
 
-<img src="images/b1.png"/>
+<img src="images/b4.png"/>
 
 <img src="images/b3.png"/>
 
