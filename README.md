@@ -1,1 +1,3 @@
-![Logo](images/logo_repository.png)
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="200"/>
+</p>
