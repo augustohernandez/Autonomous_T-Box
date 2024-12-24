@@ -2,10 +2,8 @@
   <img src="images/logo_repository.png" alt="Logo" width="250"/>
 </p>
 
-##### A LoRa-Integrated, Infrared Camera-Equipped Drone System for Dynamic Temperature Monitoring on the River Elbe
+##### A LoRa-Integrated, Infrared Camera-Equipped Drone System for Dynamic Temperature Monitoring on the River
 
-
-<div style="text-align: center;"> <h5>A LoRa-Integrated, Infrared Camera-Equipped Drone System for Dynamic Temperature Monitoring on the River Elbe</h5> </div>
 
 <img src="images/lora_box.jpg"/>
 
